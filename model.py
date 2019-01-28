@@ -1,5 +1,5 @@
 import numpy as np
-import tensorfreverb as tf
+import tensorflow as tf
 import os
 import time
 import sys
